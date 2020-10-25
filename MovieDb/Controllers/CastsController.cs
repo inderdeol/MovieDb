@@ -11,7 +11,7 @@ using MovieDb.Models;
 
 namespace MovieDb.Controllers
 {
-    [Authorize]
+
     public class CastsController : Controller
     {
         private readonly ApplicationDbContext _context;

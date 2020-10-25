@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Views\Casts\Create.cshtml" />
+    <None Include="Views\Casts\Delete.cshtml" />
+    <None Include="Views\Casts\Details.cshtml" />
+    <None Include="Views\Casts\Edit.cshtml" />
+    <None Include="Views\Casts\Index.cshtml" />
     <None Include="Views\Movies\Create.cshtml" />
     <None Include="Views\Movies\Delete.cshtml" />
     <None Include="Views\Movies\Details.cshtml" />
